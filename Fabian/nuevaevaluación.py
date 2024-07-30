@@ -11,7 +11,7 @@ rubricas = {
     'Gestión de Acceso': {
         '¿Existen políticas y procedimientos documentados para la gestión de accesos?': {
             1: 'No se tienen políticas ni procedimientos documentados. Esto implica una falta de controles formales que pongan en riesgo la confidencialidad, integridad y disponibilidad de la información.',
-            2: 'Existen políticas y procedimientos, pero no están completamente documentados o actualizados, lo que puede llevar a inconsistencias en su aplicación.',
+            2: 'Existen políticas y procedimientos, pero n1o están completamente documentados o actualizados, lo que puede llevar a inconsistencias en su aplicación.',
             3: 'Políticas y procedimientos documentados y regularmente revisados. Se abordan la mayoría de los requisitos de la norma ISO 27001.',
             4: 'Cumplen con todos los requisitos establecidos por ISO 27001, incluyendo la documentación completa y actualizada, además de revisiones periódicas.',
             5: 'Implementación avanzada que supera los requisitos estándar, con controles adicionales y medidas proactivas para mejorar continuamente la gestión de accesos.'
